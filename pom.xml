@@ -144,6 +144,12 @@
 			<version>${lombok.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.codeborne</groupId>
+			<artifactId>selenide</artifactId>
+			<version>6.16.0</version>
+			<scope>test</scope>
+		</dependency>
 <!--		&lt;!&ndash; https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-devtools &ndash;&gt;-->
 <!--		<dependency>-->
 <!--			<groupId>org.seleniumhq.selenium</groupId>-->
